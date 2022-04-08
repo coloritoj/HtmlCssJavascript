@@ -1,0 +1,17 @@
+.boxContainer {
+    border: 3px solid black;
+    height: 200px;
+    width: 400px;
+    position: relative;
+}
+
+.box {
+    border: 3px solid red;
+    height: 30px;
+    width: 150px;
+    margin: 10px;
+}
+
+#gameResults {
+    font-size: 30px;
+}
